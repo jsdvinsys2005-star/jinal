@@ -1,0 +1,7 @@
+x = 4
+y = 2.6
+z = 1j
+
+print(type(a))
+print(type(b))
+print(type(c))
