@@ -1,0 +1,8 @@
+x = float(6)
+y = float(2.9)
+z = float("5")
+w = float("4.7")
+print(x)
+print(y)
+print(z)
+print(w)
